@@ -7,3 +7,5 @@ My Code:
 3.profile
 
 4.Privacy
+
+5.Theme
